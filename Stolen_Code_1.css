@@ -2,12 +2,14 @@
 
 
 <style>
-div.highlight {    
-    background-color: #FF33D4;
-    border-color: #E74C3C;
-    border-left: 5px solid #E74C3C;
-    padding: 0.5em;
+    
+div.highlight { =   
+    background-color: #FCB6ED;
+    border-color: #D033AF;
+    border-left: 5px solid #2E86C1;
+    padding: 50em;
 }
+
 
 div.warn {    
     background-color: #FDEDEC;
@@ -17,10 +19,10 @@ div.warn {
 }
 
 div.task {    
-    background-color: #FCB6ED;
-    border-color: #D033AF;
+    background-color: #EBF5FB;
+    border-color: #2E86C1;
     border-left: 5px solid #2E86C1;
-    padding: 50em;
+    padding: 0.5em;
 }
 
 div.expert {    
