@@ -1,4 +1,10 @@
 <style>
+div.notes {    
+    background-color: #eb91d7 ;
+    border-color: #f502c2 ;
+    border-left: 5px solid #630950;
+    padding: 0.5em;
+} 
 div.highlight {    
     background-color: #FCC0EF ;
     border-color: #F49EE2 ;
