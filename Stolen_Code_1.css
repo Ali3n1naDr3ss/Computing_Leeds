@@ -5,6 +5,13 @@ div.notes {
     border-left: 5px solid #cf6011;
     padding: 0.5em;
 } 
+div.notimportant {
+    ackground-color: #b8c6db ;
+    border-color: #97a9c4 ;
+    border-left: 5px solid #89a2c7;
+    padding: 0.5em;
+} 
+
 div.highlight {    
     background-color: #FCC0EF ;
     border-color: #F49EE2 ;
